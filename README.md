@@ -1,1 +1,1 @@
-# VariationalAutoEncoders_and_GenerativeAdversarialNetworks_Playground
+# VAE and GAE playground
